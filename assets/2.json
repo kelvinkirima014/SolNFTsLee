@@ -1,0 +1,57 @@
+{
+	"name": "My NFT",
+	"symbol": "SYK",
+	"description": "description",
+	"image": "image.png",
+	"seller_fee_basis_points": "250",
+	"attributes": [
+	  {
+	    "trait_type": "Background",
+	    "value": "Black"
+	  },
+	  {
+	    "trait_type": "Eyeball",
+	    "value": "Black"
+	  },
+	  {
+	    "trait_type": "Eye color",
+	    "value": "Yellow"
+	  },
+	  {
+	    "trait_type": "Iris",
+	    "value": "Big"
+	  },
+	  {
+	    "trait_type": "Shine",
+	    "value": "Shapes"
+	  },
+	  {
+	    "trait_type": "Bottom lid",
+	    "value": "Low"
+	  },
+	  {
+	    "trait_type": "Top lid",
+	    "value": "Low"
+	  }
+	],
+	"collection": {
+	  "name": "Mi NFT",
+	  "family": "Mi Familia"
+	},
+	"properties": {
+	  "files": [
+	    {
+	      "uri": "image.png",
+	      "type": "image/png"
+	    }
+	  ],
+	  "category": "image",
+	  "creators": [
+	    {
+	      "address": "zJbScQFckESZyx6eRwhhTszQMvnNQokBCKMwow8qCoA",
+	      "share": 100
+	    }
+	  ]
+	}
+      }
+      
